@@ -14,9 +14,9 @@ header {
 
 main {
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     gap: 1em;
     padding: 1em;
+    
 }
 
 .text-block {
